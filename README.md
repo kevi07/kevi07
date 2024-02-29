@@ -9,8 +9,7 @@ kevi07/kevi07 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 <!--- <div align="center">
 <img src="https://user-images.githubusercontent.com/105140296/219126970-c6ac8bb3-c6bd-40f9-b321-9f4897840946.jpg" alt="Failer" width="45%">
