@@ -11,9 +11,10 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<!--- <div align="center">
-<img src="https://user-images.githubusercontent.com/105140296/219126970-c6ac8bb3-c6bd-40f9-b321-9f4897840946.jpg" alt="Failer" width="45%">
-</div> --->
+<div align="center">
+<img src="![image](https://github.com/kevi07/kevi07/assets/120391759/9bb4d2c4-2669-4a0a-b30a-67645ced1dfa)
+" alt="Failer" width="45%">
+</div> 
 
 ## Hi there 👋
 
