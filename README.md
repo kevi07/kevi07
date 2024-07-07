@@ -5,13 +5,10 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<div align="center">
-<img src="![image](![image](https://github.com/kevi07/kevi07/assets/120391759/3f6f8d32-4f0c-4b5b-9bfb-d5ab3a49087a)
-)
-" alt="image" width="45%">
-</div>
 
-![Car Dataset Analysis](download(1).jpeg)
+<div align="center">
+<img src="![download (1)](https://github.com/kevi07/kevi07/assets/120391759/cc52d98a-b67f-45e6-8651-881718babdeb)" alt="image" width="45%">
+</div>
 
 ## Hi there 👋
 
