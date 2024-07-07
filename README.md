@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 <img src="![image](https://github.com/kevi07/kevi07/assets/120391759/7a891b4b-8c38-43ea-84a2-f7a835016bce)
-" alt="Failer" width="45%">
+" alt="image" width="45%">
 </div>
 
 ## Hi there 👋
