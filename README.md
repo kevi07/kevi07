@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @kevin
-- 👀 I’m interested in frontend developing
-- 🌱 I’m currently learning Engineering in computer
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me via github!!
-
 <!---
 kevi07/kevi07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -12,7 +6,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
-<img src="![image](https://github.com/kevi07/kevi07/assets/120391759/7a891b4b-8c38-43ea-84a2-f7a835016bce)
+<img src="![image](![image](https://github.com/kevi07/kevi07/assets/120391759/3f6f8d32-4f0c-4b5b-9bfb-d5ab3a49087a)
+)
 " alt="image" width="45%">
 </div>
 
