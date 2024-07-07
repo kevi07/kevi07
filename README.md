@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 " alt="image" width="45%">
 </div>
 
+![Car Dataset Analysis](download(1).jpeg)
+
 ## Hi there 👋
 
 <p>I'm <b>KEVIN ARUL RAJA A</b>, computer science student at NSCET. I am a Tech Enthusiast and Self-Taught Developer, As a <strong>Full-Stack Developer</strong> and <strong>Blockchain Developer</strong> looking for an opportunity to work with real-time projects and explore New Technologies to Enhance my Skills.</p>
